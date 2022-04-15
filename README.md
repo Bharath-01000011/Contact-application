@@ -7,7 +7,6 @@ In this JAVA project, I've created a basic application to manage Contacts Inform
 2.When the User logins successfully, a new JFrame will show up with his profile picture and username. In the form, all his Contacts will be displayed into a JTable.
 
 3.The User can:
-
 - Add a New Contact
 - Edit existing Contact
 - Delete Existing Contact
